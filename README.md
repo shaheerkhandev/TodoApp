@@ -7,9 +7,9 @@ A todoApp so you don't forget things.
 You have to install these before you begin.
 
 ```
-1) Git
-2) Node.js
-3) Expo CLI
+1) [Git](https://git-scm.com/downloads)
+2) [Node.js](https://nodejs.org/en/download/)
+3) [Expo CLI](https://docs.expo.io/)
 ```
 
 ### Installing
