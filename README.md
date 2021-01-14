@@ -35,7 +35,7 @@ Step by step instructions that tell you how to get this project running.
 Android APK file: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40shaheerdev/TodoApp-c528d05ea0074a7d9fd25313edd6c59b-signed.apk
 iOS: none
 ```
-this will be updated when there is an update
+this will be updated whenever there is an update
 
 ## Authors
 
