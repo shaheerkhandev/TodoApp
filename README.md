@@ -5,6 +5,7 @@ A todoApp so you don't forget things.
 ## Changelog
 
 *v1.0.0:* First Version
+
 *v1.5.0:* Fixed Textinput and Improved Design (AwesomeAlerts doesn't work :/ )
 ## Prerequisites
 
