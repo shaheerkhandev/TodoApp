@@ -27,10 +27,10 @@ Step by step instructions that tell you how to get this project running.
 ## Build Links
 
 ```
-Android APK file: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40shaheerdev/TodoApp-ee7d90ecdfe9471bbb95c4a50084f9c0-signed.apk
+Android APK file: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40shaheerdev/TodoApp-c528d05ea0074a7d9fd25313edd6c59b-signed.apk
 iOS: none
 ```
-this will be updated when there is a major update.
+this will be updated when there is an update
 
 ## Authors
 
