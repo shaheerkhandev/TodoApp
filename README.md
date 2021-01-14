@@ -2,7 +2,11 @@
 
 A todoApp so you don't forget things.
 
-### Prerequisites
+## Changelog
+
+*v1.0.0:* First Version
+*v1.5.0:* Fixed Textinput and Improved Design (AwesomeAlerts doesn't work :/ )
+## Prerequisites
 
 You have to install these before you begin.
 
@@ -12,7 +16,7 @@ You have to install these before you begin.
 3) [Expo CLI](https://docs.expo.io/)
 ```
 
-### Installing
+## Installing
 
 Step by step instructions that tell you how to get this project running.
 
